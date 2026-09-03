@@ -1,0 +1,25 @@
+#imgzegotinha {
+    width: 15%;
+    max-width: 209px;
+}
+#imgvacina {
+    width: 20%;
+    max-width: 512px;
+}
+
+body {
+    margin: 1%;
+}
+
+#vacnobrasil {
+    display: flex;
+    align-items: flex-start;
+    gap: 5%;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 150%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
